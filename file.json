@@ -1,0 +1,3796 @@
+{
+    "_Cinema__page": null,
+    "_name": "Кино Арена The MALL",
+    "_description": " ЗАЛИ 10 зали, включително VIP зала. 1819 места ПАРКИНГ Търговски център The MALL разполага с открит и подземен паркинг. Паркинг талонът дава право на 4 часов безплатен престой за всички посетители на The MALL. ЩАНД ЗА ПУКАНКИ      РЕСТОРАНТИ   BURGER KING®          ",
+    "_address": "гр. София, Бул. Цариградско шосе 115, The MALL",
+    "_phone": "0898460557",
+    "_email": "info@kinoarena.com",
+    "_movies_url": "http://kinoarena.com/bg/cinema/kino-arena-the-mall/movies/08-03-2018",
+    "_movies": {
+        "15:17 до Париж": {
+            "_movie_title": "15:17 до Париж",
+            "_description": "ФИЛМЪТ СЕ РАЗПРОСТРАНЯВА ВЪВ ФОРМАТ:2D",
+            "_image_link": "http://www.kinoarena.com/uploads/media/stenik_movies_image/0001/09/thumb_8422_stenik_movies_image_index.jpeg",
+            "_reported": {
+                "Времетраене": "95 минути",
+                "Премиера": "9 февруари 2018 г.",
+                "Режисьор": "Клинт Истууд",
+                "Жанр": "Драма - Трилър",
+                "Актьори": "Джена Фишер, Алек Скарлатос, Джуди Грир"
+            },
+            "projections": [
+                {
+                    "features": [
+                        "VIP Screen",
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "13:00",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "VIP Screen",
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "15:00",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "VIP Screen",
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "17:15",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "VIP Screen",
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "19:20",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "VIP Screen",
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "21:20",
+                    "date": "15.02.2018"
+                },
+                [
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "12:00",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "16:40",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:15",
+                        "date": "16.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "12:00",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "16:40",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:15",
+                        "date": "17.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "12:00",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "16:40",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:15",
+                        "date": "18.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "12:00",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "16:40",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:15",
+                        "date": "19.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "12:00",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "16:40",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:15",
+                        "date": "20.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "12:00",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "16:40",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:15",
+                        "date": "21.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "12:00",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "16:40",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:15",
+                        "date": "22.02.2018"
+                    }
+                ]
+            ]
+        },
+        "Принцесата на покера": {
+            "_movie_title": "Принцесата на покера",
+            "_description": "Принцесата на покера е базиран на действителната история на Моли Блум (Джесика Частейн) – млада, харизматична олимпийска надежда в ските, която е принудена да загърби спорта след тежка травма. След като кариерата й на спортист е преустановена, семейството й настоява тя да следва право, но Моли решава да си почине една година и приема сезонна работа, която я въвежда в начинание, изискващо сходни на спорта инстинкти и дисциплина: да ръководи най-ексклузивните в света нелегални игри на покер с високи залози. Дълбоките джобове на холивудски величия, сред които се говори, че са били Бен Афлек, Тоби Магуайър и Леонардо Ди Каприо, спортни звезди и бизнес магнати ѝ осигуряват десетилетие на бляскав успех. Но Моли привлича вниманието на грешните хора, когато влиза в контакт с членове на руската мафия. Успешната серия приключва рязко, когато е арестувана посред нощ от 17 агенти на ФБР, размахващи огнестрелни оръжия. Изправена пред сериозни наказателни обвинения, единственият съюзник на Моли е адвокатът Чарли Джефрис (Идрис Елба), който открива, че Моли Блум е нещо много повече от това, което се опитват да внушат таблоидите.ФИЛМЪТ СЕ РАЗПРОСТРАНЯВА ВЪВ ФОРМАТ:2D",
+            "_image_link": "http://www.kinoarena.com/uploads/media/stenik_movies_image/0001/09/thumb_8476_stenik_movies_image_index.jpeg",
+            "_reported": {
+                "Времетраене": "140 минути",
+                "Премиера": "23 февруари 2018 г.",
+                "Режисьор": "Арън Соркин",
+                "Жанр": "Екшън - Драма",
+                "Актьори": "Крис О'Дауд, Джесика Частейн, Кевин Костнър, Идрис Елба"
+            },
+            "projections": [
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:10",
+                        "date": "16.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:10",
+                        "date": "17.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:10",
+                        "date": "18.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:10",
+                        "date": "19.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:10",
+                        "date": "20.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:10",
+                        "date": "21.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:10",
+                        "date": "22.02.2018"
+                    }
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                []
+            ]
+        },
+        "Черната пантера RealD 3D": {
+            "_movie_title": "Черната пантера RealD 3D",
+            "_description": "Черната пантера проследява историята на Т‘Чала, който, след смъртта на баща си - краля на Уаканда, се завръща в изолираната, но технологично напреднала, африканска държава, за да наследи трона и да заеме полагащото му се място като крал. Когато стар и могъщ противник се появява отново, Т’Чала е въвлечен в конфликт, качествата му на крал са поставени на изпитание, а съдбата на Уаканда и на целия свят са изложени на риск. Изправен пред предателства и опасности, младият крал трябва да призове своите съюзници и да освободи пълната сила на Черната пантера, за да победи враговете си и да осигури сигурността на своя народ и начина им на живот.ФИЛМЪТ СЕ РАЗПРОСТРАНЯВА ВЪВ ФОРМАТ:REALD 3DDOLBY ATMOS ",
+            "_image_link": "http://www.kinoarena.com/uploads/media/stenik_movies_image/0001/09/thumb_8383_stenik_movies_image_index.jpeg",
+            "_reported": {
+                "Времетраене": "135 минути",
+                "Премиера": "16 февруари 2018 г.",
+                "Режисьор": "Райън Куглър",
+                "Жанр": "Екшън - Приключенски",
+                "Актьори": "Мартин Фрийман, Лупита Нионго, Чадуик Боусман, Майкъл Б.Джордън, Форест Уитакър"
+            },
+            "projections": [
+                {
+                    "features": [
+                        "3D Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "21:00",
+                    "date": "15.02.2018"
+                },
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "11:30",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "14:20",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:10",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:00",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:50",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "13:00",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:50",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "18:40",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:30",
+                        "date": "16.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "11:30",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "14:20",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:10",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:00",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:50",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "13:00",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:50",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "18:40",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:30",
+                        "date": "17.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "11:30",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "14:20",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:10",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:00",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:50",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "13:00",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:50",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "18:40",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:30",
+                        "date": "18.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "11:30",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "14:20",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:10",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:00",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:50",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "13:00",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:50",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "18:40",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:30",
+                        "date": "19.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "11:30",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "14:20",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:10",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:00",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:50",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "13:00",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:50",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "18:40",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:30",
+                        "date": "20.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "11:30",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "14:20",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:10",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:00",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:50",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "13:00",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:50",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "18:40",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:30",
+                        "date": "21.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "11:30",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "14:20",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:10",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:00",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:50",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "13:00",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:50",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "18:40",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:30",
+                        "date": "22.02.2018"
+                    }
+                ]
+            ]
+        },
+        "Петдесет нюанса освободени": {
+            "_movie_title": "Петдесет нюанса освободени",
+            "_description": "Джейми Дорнан и Дакота Джонсън се завръщат като Крисчън Грей и Анастейжа Стийл в Петдесет нюанса освободени – третата глава от световния феномен „Петдесет нюанса“. Филмът, който идва в кината на Св. Валентин 2018 г., дава дългоочакваната кулминация на събития, които започнаха през 2015 и 2017 г. в блокбъстърите, чиито общи световни приходи надхвърлиха $950 милиона. Режисьор на Петдесет нюанса освободени е Джеймс Фоли (Къща от карти), продуценти отново са Майкъл де Лука, Дана Брунети и Маркуус Висиди, както и създателката на световния феномен Е. Л. Джеймс. Сценарият е писан от Нийл Леонард и е по романа на Джеймс. ФИЛМЪТ СЕ РАЗПРОСТРАНЯВА ВЪВ ФОРМАТ:2D",
+            "_image_link": "http://www.kinoarena.com/uploads/media/stenik_movies_image/0001/09/thumb_8359_stenik_movies_image_index.jpeg",
+            "_reported": {
+                "Времетраене": "110 минути",
+                "Премиера": "9 февруари 2018 г.",
+                "Режисьор": " Джеймс Фоли",
+                "Жанр": "Драма",
+                "Актьори": "Ким Бейсинджър, Джейми Дорнан, Дакота Джонсън, Ерик Джонсън, Рита Ора"
+            },
+            "projections": [
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "11:45",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "14:00",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "16:15",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "18:30",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "20:50",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "13:00",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "15:15",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "17:40",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "20:00",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "22:15",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "17:00",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "19:15",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "21:30",
+                    "date": "15.02.2018"
+                },
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "11:45",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "14:00",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "16:20",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "18:40",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:00",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "13:15",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:40",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "18:00",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:15",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:30",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:00",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "19:20",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:45",
+                        "date": "16.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "11:45",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "14:00",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "16:20",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "18:40",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:00",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "13:15",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:40",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "18:00",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:15",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:30",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:00",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "19:20",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:45",
+                        "date": "17.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "11:45",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "14:00",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "16:20",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "18:40",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:00",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "13:15",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:40",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "18:00",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:15",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:30",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:00",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "19:20",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:45",
+                        "date": "18.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "11:45",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "14:00",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "16:20",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "18:40",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:00",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "13:15",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:40",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "18:00",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:15",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:30",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:00",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "19:20",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:45",
+                        "date": "19.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "11:45",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "14:00",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "16:20",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "18:40",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:00",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "13:15",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:40",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "18:00",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:15",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:30",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:00",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "19:20",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:45",
+                        "date": "20.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "11:45",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "14:00",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "16:20",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "18:40",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:00",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "13:15",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:40",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "18:00",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:15",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:30",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:00",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "19:20",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:45",
+                        "date": "21.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "11:45",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "14:00",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "16:20",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "18:40",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:00",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "13:15",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:40",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "18:00",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:15",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:30",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:00",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "19:20",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "21:45",
+                        "date": "22.02.2018"
+                    }
+                ]
+            ]
+        },
+        "Най-мрачният час": {
+            "_movie_title": "Най-мрачният час",
+            "_description": "Най-мрачният час проследява събитията от ранните дни на Втората световна война, когато падането на Франция е неизбежно, а Великобритания преживява най-мрачния час, в който се бори срещу нарастващата опасност от инвазия на германците. Докато неудържимите сили на нацистите настъпват, а воиските на Съюзниците са притиснати на плажовете на Дюнкерк, съдбата на Западна Европа тежи на плещите на наскоро избрания министър-председател Уинстън Чърчил (номинирания за „Оскар“ Гари Олдман). Докато маневрира между политическите си врагове, той трябва да се изправи пред най-важния избор в живота си: да се договори с Хитлер и да спаси британския народ, като плати ужасяваща цена, или да продължи битката напук на минималните шансове за победа. Режисиран от Джо Райт, Най-мрачният час е драматичната и вдъхновяваща история на четири седмици през 1940 г., през които Чърчил проявява куража, нужен да промени историята на човечеството. ФИЛМЪТ СЕ РАЗПРОСТРАНЯВА ВЪВ ФОРМАТ:2D",
+            "_image_link": "http://www.kinoarena.com/uploads/media/stenik_movies_image/0001/09/thumb_8390_stenik_movies_image_index.jpeg",
+            "_reported": {
+                "Времетраене": "126 минути",
+                "Премиера": "2 февруари 2018 г.",
+                "Режисьор": "Джо Райт",
+                "Жанр": "Драма",
+                "Актьори": "Кристин Скот Томас, Бен Менделсон, Стивън Дилейн, Гари Олдман, Лили Джеймс"
+            },
+            "projections": [
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "11:30",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "14:00",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "16:30",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "19:00",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "22:30",
+                    "date": "15.02.2018"
+                },
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "19:30",
+                        "date": "16.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "19:30",
+                        "date": "17.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "19:30",
+                        "date": "18.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "19:30",
+                        "date": "19.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "19:30",
+                        "date": "20.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "19:30",
+                        "date": "21.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "19:30",
+                        "date": "22.02.2018"
+                    }
+                ]
+            ]
+        },
+        "Всичките пари на света": {
+            "_movie_title": "Всичките пари на света",
+            "_description": "16 годишният Джон Пол Гети III е отвлечен. Майка му отчаяно се опитва да убеди дядо му да плати откупа, защото Жан Пол Гети е най-богатият човек в света към момента! Но той отказва...ФИЛМЪТ СЕ РАЗПРОСТРАНЯВА ВЪВ ФОРМАТ:2D",
+            "_image_link": "http://www.kinoarena.com/uploads/media/stenik_movies_image/0001/09/thumb_8451_stenik_movies_image_index.jpeg",
+            "_reported": {
+                "Времетраене": "132 минути",
+                "Премиера": "2 февруари 2018 г.",
+                "Режисьор": "Ридли Скот",
+                "Жанр": "Драма - Трилър",
+                "Актьори": "Ромaн Дюри, Кристофър Пламър, Марк Уолбърг, Мишел Уилямс"
+            },
+            "projections": [
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "11:15",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "16:45",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "19:30",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "22:20",
+                    "date": "15.02.2018"
+                },
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "11:50",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "16:45",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:00",
+                        "date": "16.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "11:50",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "16:45",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:00",
+                        "date": "17.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "11:50",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "16:45",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:00",
+                        "date": "18.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "11:50",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "16:45",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:00",
+                        "date": "19.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "11:50",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "16:45",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:00",
+                        "date": "20.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "11:50",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "16:45",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:00",
+                        "date": "21.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "11:50",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "16:45",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:00",
+                        "date": "22.02.2018"
+                    }
+                ]
+            ]
+        },
+        "Лабиринтът: Последният кандидат RealD 3D": {
+            "_movie_title": "Лабиринтът: Последният кандидат RealD 3D",
+            "_description": "ФИЛМЪТ СЕ РАЗПРОСТРАНЯВА ВЪВ ФОРМАТ:REALD 3DDOLBY ATMOS",
+            "_image_link": "http://www.kinoarena.com/uploads/media/stenik_movies_image/0001/09/thumb_8348_stenik_movies_image_index.jpeg",
+            "_reported": {
+                "Времетраене": "142 минути",
+                "Премиера": "26 януари 2018 г.",
+                "Режисьор": "Уес Бол",
+                "Жанр": "Екшън - Фантастика",
+                "Актьори": "Ейдън Гилън, Томас Броуди-Сангстър, Уолтън Гогинс, Кая Скоделарио, Роза Салазар, Дилан О'Браян"
+            },
+            "projections": [
+                {
+                    "features": [
+                        "3D Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "12:50",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "3D Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "15:50",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "3D Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "18:45",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "3D Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "21:45",
+                    "date": "15.02.2018"
+                },
+                [
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "12:10",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:00",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:50",
+                        "date": "16.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:45",
+                        "date": "16.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "12:10",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:00",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:50",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:45",
+                        "date": "17.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "12:10",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:00",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:50",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:45",
+                        "date": "18.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "12:10",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:00",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:50",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:45",
+                        "date": "19.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "12:10",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:00",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:50",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:45",
+                        "date": "20.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "12:10",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:00",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:50",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:45",
+                        "date": "21.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:00",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:50",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:45",
+                        "date": "22.02.2018"
+                    }
+                ]
+            ]
+        },
+        "12 Силни": {
+            "_movie_title": "12 Силни",
+            "_description": "Крис Хемсуърт (\"Тор\", \"Отмъстителите\"), Майкъл Пеня (\"Марсианецът\") и номинираният за \"Оскар\" Майкъл Шанън (\"Пърл Харбър\", \"Ванила Скай\") са сред звездите в “12 СИЛНИ” - въздействаща военна драма по действителни събития след злощастния 11 септември 2001 г.Продуцираната от легендата в киното Джери Брукхаймър (\"Блек Хоук\", поредицата \"Карибски пирати\") и режисирана от датчанина Николай Фулси история проследява съдбата на първите бойци от американските Специални части, изпратени в Афганистан непосредствено след атентатите срещу Световния търговски център. Предвожданият от кап. Мич Нелсън (Хемсуърт) екип изпълнява изключително опасна мисия, чиято крайна цел е убеждаването на генерал от Ислямския фронт за спасение да обедини силите си с тези на американците в борбата с общия враг - талибаните и Ал-Кайда. Освен че трябва да преодолеят взаимното си недоверие и огромните си културни различия, свикналите да водят война с най-модерни оръжия янки са принудени да усвоят и основни бойни тактики от местните конни воини, за да се справят с многократно превъзхождащия ги безмилостен враг.ФИЛМЪТ СЕ РАЗПРОСТРАНЯВА ВЪВ ФОРМАТ:2D",
+            "_image_link": "http://www.kinoarena.com/uploads/media/stenik_movies_image/0001/09/thumb_8402_stenik_movies_image_index.jpeg",
+            "_reported": {
+                "Времетраене": "130 минути",
+                "Премиера": "26 януари 2018 г.",
+                "Режисьор": "Николай Фюлсиг",
+                "Жанр": "Екшън - Драма",
+                "Актьори": "Крис Хемсуърт, Елса Патаки, Майкъл Шанън, Уилям Фичнър"
+            },
+            "projections": [
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "22:00",
+                    "date": "15.02.2018"
+                }
+            ]
+        },
+        "Бърлога на крадци": {
+            "_movie_title": "Бърлога на крадци",
+            "_description": "С уч. на Джерард Бътлър и 50 cent, този напрегнат екшън ни разказва за специалното звено към полицията в Лос Анджелис и най-добрите обриджии на банки в района, които са набелязали наглед немислима цел – Федералния резерв…ФИЛМЪТ СЕ РАЗПРОСТРАНЯВА ВЪВ ФОРМАТ:2D",
+            "_image_link": "http://www.kinoarena.com/uploads/media/stenik_movies_image/0001/09/thumb_8349_stenik_movies_image_index.jpeg",
+            "_reported": {
+                "Времетраене": "140 минути",
+                "Премиера": "19 януари 2018 г.",
+                "Режисьор": "Крисчън Гъдегаст",
+                "Жанр": "Екшън - Драма",
+                "Актьори": "Купър Андерсън, 50 Cent, Джерард Бътлър, Пабло Шрайбър,  О'Шей Джексън-мл"
+            },
+            "projections": [
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "13:50",
+                    "date": "15.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "21:40",
+                    "date": "15.02.2018"
+                }
+            ]
+        },
+        "Джуманджи: Добре дошли в джунглата RealD 3D": {
+            "_movie_title": "Джуманджи: Добре дошли в джунглата RealD 3D",
+            "_description": "В новото ДЖУМАНДЖИ приключение четирима гимназисти откриват стара видео игра, ĸoятo ги зacмyĸвa в cвoй магичен cвят и всеки от играчите буквално се превръща в аватара, който е избрал.Eдинcтвeния нaчин дa ce ocвoбoдят и да се завърнат в реалния свят e дa зaвъpшaт игpaтa, вceки xoд нa ĸoятo e oпacнo пpиĸлючeниe.ФИЛМЪТ СЕ РАЗПРОСТРАНЯВА ВЪВ ФОРМАТ:REALD 3DDOLBY ATMOS ",
+            "_image_link": "http://www.kinoarena.com/uploads/media/stenik_movies_image/0001/09/thumb_8466_stenik_movies_image_index.jpeg",
+            "_reported": {
+                "Времетраене": "123 минути",
+                "Премиера": "22 декември 2017 г.",
+                "Режисьор": "Джейк Касдан",
+                "Жанр": "Екшън - Приключенски",
+                "Актьори": "Дуейн Джонсън, Джак Блек, Алекс Улф, Кевин Харт"
+            },
+            "projections": [
+                {
+                    "features": [
+                        "VIP Screen",
+                        "3D Digital"
+                    ],
+                    "projection": "14:10",
+                    "date": "16.02.2018"
+                },
+                {
+                    "features": [
+                        "VIP Screen",
+                        "3D Digital"
+                    ],
+                    "projection": "18:45",
+                    "date": "16.02.2018"
+                },
+                [
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "3D Digital"
+                        ],
+                        "projection": "14:10",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "3D Digital"
+                        ],
+                        "projection": "18:45",
+                        "date": "17.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "3D Digital"
+                        ],
+                        "projection": "14:10",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "3D Digital"
+                        ],
+                        "projection": "18:45",
+                        "date": "18.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "3D Digital"
+                        ],
+                        "projection": "14:10",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "3D Digital"
+                        ],
+                        "projection": "18:45",
+                        "date": "19.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "3D Digital"
+                        ],
+                        "projection": "14:10",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "3D Digital"
+                        ],
+                        "projection": "18:45",
+                        "date": "20.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "3D Digital"
+                        ],
+                        "projection": "14:10",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "3D Digital"
+                        ],
+                        "projection": "18:45",
+                        "date": "21.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "3D Digital"
+                        ],
+                        "projection": "14:10",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "VIP Screen",
+                            "3D Digital"
+                        ],
+                        "projection": "18:45",
+                        "date": "22.02.2018"
+                    }
+                ]
+            ]
+        },
+        "Гномчета вкъщи RealD 3D": {
+            "_movie_title": "Гномчета вкъщи RealD 3D",
+            "_description": "Когато Клои открива, че градинските гномчета в новата й къща не са това, което изглеждат, тя ще трябва да направи избор - да се впише в \"готините\" на новото си училище или да поведе заедно със своите приятели битката срещу злите същества Трог от друго измерение.ва е Ричард Щъркелчето. Решен да докаже, че е щъркел въпреки всичко, той поема сам на юг, а по пътя към него се присъединяват ексцентрична бухалка с въображаем приятел и самовлюбен папагал- диско певец. По време на епичното им пътешествие, те се сблъскват с много препятствия като смъртоносни прилепи, пристрастени към интернет гълъби, гарвани - мафиоти, самолети, влакове. Когато най-после достигат до Африка, Ричард се оказва единственият, който влиза в битка с чудовищен язовец, за да спаси брат си и цялото си семейство.Най-малкият щъркел трябва да се научи да възприема себе си като най-силният врабец, за да освободи истинския си потенциал и да се събере отново със семейството си.ФИЛМЪТ СЕ РАЗПРОСТРАНЯВА ВЪВ ФОРМАТ:REALD 3D",
+            "_image_link": "http://www.kinoarena.com/uploads/media/stenik_movies_image/0001/09/thumb_8450_stenik_movies_image_index.jpeg",
+            "_reported": {
+                "Времетраене": "85 минути",
+                "Премиера": "16 февруари 2018 г.",
+                "Жанр": "Анимация (дублиран)"
+            },
+            "projections": [
+                {
+                    "features": [
+                        "3D Digital",
+                        "Dolby N",
+                        "Dubbed"
+                    ],
+                    "projection": "12:20",
+                    "date": "16.02.2018"
+                },
+                {
+                    "features": [
+                        "3D Digital",
+                        "Dolby N",
+                        "Dubbed"
+                    ],
+                    "projection": "14:20",
+                    "date": "16.02.2018"
+                },
+                {
+                    "features": [
+                        "3D Digital",
+                        "Dolby N",
+                        "Dubbed"
+                    ],
+                    "projection": "16:15",
+                    "date": "16.02.2018"
+                },
+                {
+                    "features": [
+                        "3D Digital",
+                        "Dolby N",
+                        "Dubbed"
+                    ],
+                    "projection": "18:15",
+                    "date": "16.02.2018"
+                },
+                [
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "12:20",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "14:20",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "16:15",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "18:15",
+                        "date": "17.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "12:20",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "14:20",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "16:15",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "18:15",
+                        "date": "18.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "12:20",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "14:20",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "16:15",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "18:15",
+                        "date": "19.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "12:20",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "14:20",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "16:15",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "18:15",
+                        "date": "20.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "12:20",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "14:20",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "16:15",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "18:15",
+                        "date": "21.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "12:20",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "14:20",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "16:15",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "18:15",
+                        "date": "22.02.2018"
+                    }
+                ]
+            ]
+        },
+        "Лили Рибката": {
+            "_movie_title": "Лили Рибката",
+            "_description": "“Лили Рибката” е филм, който се обръща към децата, но ангажира и възрастните. Той е семеен филм, поставящ въпроси, от чиито отговори се интересуват както съвременните деца, така и техните родители. Филмът е приказка за необикновено дете, което претърпява чудна трансформация всеки път щом някой го погледне право в очите. Полагайки усилия да му помогнат, родителите на детето го отвеждат в малко село в околностите, на което детето среща връстничката си Лили – внучка на говорещ Японски шаран и дъщеря на цигани-магьосници. Приказка за отговорни родители и чувствителни деца. История с фантастични герои и любов във всичките й форми.ФИЛМЪТ СЕ РАЗПРОСТРАНЯВА ВЪВ ФОРМАТ:2D",
+            "_image_link": "http://www.kinoarena.com/uploads/media/stenik_movies_image/0001/09/thumb_8232_stenik_movies_image_index.jpeg",
+            "_reported": {
+                "Времетраене": "107 минути",
+                "Премиера": "9 февруари 2018 г.",
+                "Режисьор": "Ясен Григоров",
+                "Жанр": "Комедия-Семеен-Фентъзи",
+                "Актьори": "Калин Сърменов, Койна Русевa, Татяна Лолова, Стоян Радев, Красимира Демирова"
+            },
+            "projections": [
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N",
+                        "Dubbed"
+                    ],
+                    "projection": "11:15",
+                    "date": "16.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N",
+                        "Dubbed"
+                    ],
+                    "projection": "13:30",
+                    "date": "16.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N",
+                        "Dubbed"
+                    ],
+                    "projection": "15:45",
+                    "date": "16.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N",
+                        "Dubbed"
+                    ],
+                    "projection": "18:00",
+                    "date": "16.02.2018"
+                },
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "11:15",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "13:30",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "15:45",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "18:00",
+                        "date": "17.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "11:15",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "13:30",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "15:45",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "18:00",
+                        "date": "18.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "11:15",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "13:30",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "15:45",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "18:00",
+                        "date": "19.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "11:15",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "13:30",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "15:45",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "18:00",
+                        "date": "20.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "11:15",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "13:30",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "15:45",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "18:00",
+                        "date": "21.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "11:15",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "13:30",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "15:45",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "18:00",
+                        "date": "22.02.2018"
+                    }
+                ]
+            ]
+        },
+        "Посоки": {
+            "_movie_title": "Посоки",
+            "_description": "В рамките на двадесет и четири часа в шест софийски таксита се случват шест истории, повлияни от абсурдите и проблемите на днешната българска действителност. Всички те са обединени от една смърт, която ще даде шанс за нов живот. Шофьорите на таксита са водещите герои, които често са най-точните свидетели на действителността, включително и от тъмната й страна. Някои от тях са принудени да бъдат психолози и терапевти, понякога спасители, други са агресори, трети са жертви. Те са част от истинския живот. Останалите герои на тези истории са клиентите на такситата – различните лица на българското общество. Редуват се както драматични, така и комични епизоди из нощна София.  Във филма ще видим актьорите Ирини Жамбонас, Асен Блатечки, Зуека, Стефан Денолюбов, Юлиан Вергов, Васил Банов, Герасим Георгиев – Геро, Иван Бърнев, Стефка Янорова, Николай Урумов  и др. Сценарият е на Симеон Венциславов и Стефан Командарев, оператор е Веселин Христов, монтажът е на Нина Алтъпармакова, художник на филма е Мария Койчева. Продуценти на филма са Стефан Командарев и Катя Тричкова (Арго филм).ФИЛМЪТ СЕ РАЗПРОСТРАНЯВА ВЪВ ФОРМАТ:2D",
+            "_image_link": "http://www.kinoarena.com/uploads/media/stenik_movies_image/0001/09/thumb_8297_stenik_movies_image_index.jpeg",
+            "_reported": {
+                "Времетраене": "103 минути",
+                "Премиера": "26 януари 2018 г.",
+                "Режисьор": "Стефан Командарев",
+                "Жанр": "Драма",
+                "Актьори": "Георги Кадурин"
+            },
+            "projections": [
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "14:30",
+                    "date": "16.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "20:30",
+                    "date": "16.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "22:40",
+                    "date": "16.02.2018"
+                },
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "14:30",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:30",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:40",
+                        "date": "17.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "14:30",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:30",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:40",
+                        "date": "18.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "14:30",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:30",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:40",
+                        "date": "19.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "14:30",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:30",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:40",
+                        "date": "20.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "14:30",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:30",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:40",
+                        "date": "21.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "14:30",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:30",
+                        "date": "22.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:40",
+                        "date": "22.02.2018"
+                    }
+                ]
+            ]
+        },
+        "Бикът Фердинанд RealD 3D": {
+            "_movie_title": "Бикът Фердинанд RealD 3D",
+            "_description": "След като Фердинанд, бик с голямо сърце, погрешка е сметнат за опасен звяр, той е заловен и откъснат от дома си. Твърдо решен да се завърне при семейството си, с помощта на група чудати приятели, той ще поеме на едно вълнуващо приключение. ФИЛМЪТ СЕ РАЗПРОСТРАНЯВА ВЪВ ФОРМАТ:3D",
+            "_image_link": "http://www.kinoarena.com/uploads/media/stenik_movies_image/0001/09/thumb_8018_stenik_movies_image_index.jpeg",
+            "_reported": {
+                "Времетраене": "110 минути",
+                "Премиера": "22 декември 2017 г.",
+                "Жанр": "Анимация (дублиран)"
+            },
+            "projections": [
+                {
+                    "features": [
+                        "3D Digital",
+                        "Dolby N",
+                        "Dubbed"
+                    ],
+                    "projection": "12:30",
+                    "date": "16.02.2018"
+                },
+                {
+                    "features": [
+                        "3D Digital",
+                        "Dolby N",
+                        "Dubbed"
+                    ],
+                    "projection": "14:45",
+                    "date": "16.02.2018"
+                },
+                [
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "12:30",
+                        "date": "17.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "14:45",
+                        "date": "17.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "12:30",
+                        "date": "18.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "14:45",
+                        "date": "18.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "12:30",
+                        "date": "19.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "14:45",
+                        "date": "19.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "12:30",
+                        "date": "20.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "14:45",
+                        "date": "20.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "12:30",
+                        "date": "21.02.2018"
+                    },
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "14:45",
+                        "date": "21.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "3D Digital",
+                            "Dolby N",
+                            "Dubbed"
+                        ],
+                        "projection": "12:45",
+                        "date": "22.02.2018"
+                    }
+                ]
+            ]
+        },
+        "Привличане": {
+            "_movie_title": "Привличане",
+            "_description": "Младата учителка по история Лора Ангелова (Яна Маринова) е разкъсвана между любовта си към училището, което баща й е основал, и миналото си на състезател по спортни танци. Колегите и я уважават, а учениците я обожават. Всичко изглежда безоблачно до мига, в който директорският пост в гимназията е овакантен и Ангелова се оказва в пряка конкуренция с амбициозната си и коварна колежка Великова (Койна Русева). Повереният на Лора 12ти клас също е изправен пред проблеми. Диана (Луиза Григорова), дъщеря на основния спонсор на елитното училище ( Башар Рахал),е красива и секси лигла, която не пропуска да демонстрира луксозния си начин на живот. Тя смята, че на света няма нещо, което дане може да се купи със секс или пари. Дори това да е гаджето на най-добрата й приятелка Соня (Радина Боршош). Манипулациите на Диана водят до разразяването на скандал, в центъра на който е секс клипчес нейни съученици, заснето в танцовата зала на Лора Ангелова. Междувременно в училището е назначен нов преподавател по музика -Калин Соколов (Александър Сано), поп звезда и новоизлюпен продуцент. Училищните връзки неизменно ще го оплетат. Чия страна, обаче ще избере той? И има ли изобщо страна, или всеки е сам за себе си? Месец преди абитуриентския бал на своя клас, Лора Ангелова ще трябва да докаже на всички, че верният избор винаги е по-труден, но си струва! А музиката и танците са част от училище...ФИЛМЪТ СЕ РАЗПРОСТРАНЯВА ВЪВ ФОРМАТ:2D",
+            "_image_link": "http://www.kinoarena.com/uploads/media/stenik_movies_image/0001/09/thumb_8115_stenik_movies_image_index.jpeg",
+            "_reported": {
+                "Времетраене": "122 минути",
+                "Премиера": "23 февруари 2018 г.",
+                "Жанр": "Екшън - Драма"
+            },
+            "projections": [
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "12:30",
+                    "date": "23.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "15:00",
+                    "date": "23.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "17:30",
+                    "date": "23.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "20:00",
+                    "date": "23.02.2018"
+                },
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "22:30",
+                    "date": "23.02.2018"
+                },
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "12:30",
+                        "date": "24.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:00",
+                        "date": "24.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:30",
+                        "date": "24.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:00",
+                        "date": "24.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:30",
+                        "date": "24.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "12:30",
+                        "date": "25.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:00",
+                        "date": "25.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:30",
+                        "date": "25.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:00",
+                        "date": "25.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:30",
+                        "date": "25.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "12:30",
+                        "date": "26.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:00",
+                        "date": "26.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:30",
+                        "date": "26.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:00",
+                        "date": "26.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:30",
+                        "date": "26.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "12:30",
+                        "date": "27.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:00",
+                        "date": "27.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:30",
+                        "date": "27.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:00",
+                        "date": "27.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:30",
+                        "date": "27.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "12:30",
+                        "date": "28.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:00",
+                        "date": "28.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:30",
+                        "date": "28.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:00",
+                        "date": "28.02.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:30",
+                        "date": "28.02.2018"
+                    }
+                ],
+                [
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "12:30",
+                        "date": "01.03.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "15:00",
+                        "date": "01.03.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "17:30",
+                        "date": "01.03.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "20:00",
+                        "date": "01.03.2018"
+                    },
+                    {
+                        "features": [
+                            "Digital",
+                            "Dolby N"
+                        ],
+                        "projection": "22:30",
+                        "date": "01.03.2018"
+                    }
+                ]
+            ]
+        },
+        "Легенда за красотата": {
+            "_movie_title": "Легенда за красотата",
+            "_description": "С над 80 милиона продадени албуми, Андреа Бочели се завръща на кино екраните, за да вземе участие в шоу-спектакъла на лед – „Легенда за красотата“, който съчетава опера, поп музика, фигурно пързаляне и мода. Това взимащо дъха представление е заснето в емблематичната Арена ди Верона в Италия. Чрез техниката на заснемане и сцената с оформена ледена пързалка в центъра й, публиката ще може да се наслади на едно истинско 360-градусово изживяване, пренасящо ги в античните Римски арени. „Легенда за красотата“ е аудио-визуален шедьовър, подсилен с лазерни и пиротехнически ефекти, които превръщат представлението на световно известните фигуристи Евгений Плюшченко, Стефан Ламбиел и Шизука Аракава в една истинска феерия на фона на вечни оперни класики. Спектакълът „Легенда за красотата“ е спонсориран от известната италианска модна марка Intimissimi и е вдъхновена от известните жени в гръцката митология – героини на любов и трагедия, които и до днес разтърсват съвременния живот. Историите от класическата митология се преплитат по невиждан досега начин и оживяват на големия екран. От Венера до Елена от Троя, от Цирцея до Медуза, известните героини от Гръцките митове са в центъра на сцени, рисуващи чувствата и страстите на съвременните жени. Костюмите са дело на Киара Ферани – най-влиятелното модно име в Италия днес. Чрез техните истории, с най-добрите музиканти и фигуристи в света, спектакълът отпразнува красотата на женствеността. КОНЦЕРТЪТ СЕ РАЗПРОСТРАНЯВА ВЪВ ФОРМАТ:2D",
+            "_image_link": "http://www.kinoarena.com/uploads/media/stenik_movies_image/0001/09/thumb_8486_stenik_movies_image_index.jpeg",
+            "_reported": {
+                "Времетраене": "80 минути",
+                "Премиера": "8 март 2018 г.",
+                "Жанр": "Концерт"
+            },
+            "projections": [
+                {
+                    "features": [
+                        "Digital",
+                        "Dolby N"
+                    ],
+                    "projection": "20:00",
+                    "date": "08.03.2018"
+                }
+            ]
+        }
+    }
+}None
